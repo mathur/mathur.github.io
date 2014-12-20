@@ -21,17 +21,16 @@
 \name{Rohan Mathur}
 
 \address{
-website: www.rmathur.com \ \ \ \ \ email: rohan@rmathur.com 
+phone: (732) 552-6317 \ \ \ \ \ website: www.rmathur.com \ \ \ \ \ email: rohan@rmathur.com 
 }
 
 \begin{resume}
 \section{\textsc{Education}}
 \textbf{University of Illinois at Urbana-Champaign} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2014 - 2018 (expected) \\
-Dual major in Computer Engineering and Management, minor in Mathematics \\
-Relevant Classes: ECE 198JL, MATH 241, PHYS 212
+Majoring in Computer Engineering, minor in Mathematics and Business Administration \\
+Relevant Classes: ECE 110, 120, 220 | CS 173, 225 | MATH 241 | PHYS 212
 
-\textbf{Bridgewater-Raritan High School} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2009 - 2014 \\
-Relevant Classes: AP Computer Science, Calculus 3, Differential Equations, AP Physics C
+\textbf{Bridgewater-Raritan High School} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2009 - 2014
 
 \begin{formatb}
   \employer{l}\title{r}\\
@@ -90,8 +89,8 @@ Mobile ScanTron scanner, grader, and grade reporting application, winner of 2nd 
 
 \section{\textsc{Qualifications}}
 
-\emph{Programming Languages}: \Cplusplus, C, Java, Python, PHP, MySQL, Javascript, HTML5, CSS3 \\
-\emph{Libraries and Tools}: Android SDK, Adobe Suite, MatLab, Mathematica, Node.js, JQuery
+\emph{Programming Languages}: \Cplusplus, C, Java, PHP, MySQL \\
+\emph{Libraries and Tools}: Android SDK/NDK, Node.js, JQuery, 3D Printers
 
 \section{\textsc{Activities}}
 
@@ -100,22 +99,22 @@ Mobile ScanTron scanner, grader, and grade reporting application, winner of 2nd 
   \body\\
 \end{formatb}
 
-\employer{\textbf{BRHS STEM Club}}
+\employer{\textbf{HackIllinois Staff}}
+\title{Systems Team}
+\begin{position}
+Built the HackIllinois coding challenge site that applicants could complete to get familiarity with various programming languages. Assisted with the developemnt of the Android application.
+\end{position}
+
+\employer{\textbf{Reflections|Projections Staff}}
+\title{Staff}
+\begin{position}
+Invited several guest speakers and helped with the overall logistics of the event.
+\end{position}
+
+\employer{\textbf{IEEE Student Club}}
 \title{Founder \& President}
 \begin{position}
-Invited guest speakers and participated in several engineering-centric community projects.
-\end{position}
-
-\employer{\textbf{Engineering Olympics Team}}
-\title{Captain}
-\begin{position}
-Led team in several engineering related competitions and events.
-\end{position}
-
-\employer{\textbf{BRHS Math and Science Honor Societies}}
-\title{Secretary}
-\begin{position}
-Conduct and organize meetings and events for both honor societies.
+Led club in projects including building an autonomous blimp for a local children's museum. Invited guest speakers from industry and academia to talk about their experiences.
 \end{position}
 
 \begin{formatb}
@@ -124,29 +123,19 @@ Conduct and organize meetings and events for both honor societies.
 
 \section{\textsc{Publications}}
 
-\employer{\textbf{Exploring Methods to Develop Cross-Platform Mobile Apps }}
-\title{Gov School Journal}
+\employer{\textbf{New Jersey Governor's School Research Journal}}
+\title{}
 \begin{position}
+"Exploring Methods to Develop Cross-Platform Mobile Apps"
 \end{position}
 
-\employer{\textbf{Computer programming - A building block of STEM}}
-\title{IEEE Xplore}
+\employer{\textbf{IEEE Xplore}}
+\title{}
 \begin{position}
-\end{position}
-
-\employer{\textbf{Cybersecurity — An integral part of STEM}}
-\title{IEEE Xplore}
-\begin{position}
-\end{position}
-
-\employer{\textbf{EPICS High: A Digital Literacy Project in India}}
-\title{IEEE Xplore}
-\begin{position}
-\end{position}
-
-\employer{\textbf{EPICS High: STEM's impact on community service}}
-\title{IEEE Xplore}
-\begin{position}
+"Computer programming - A building block of STEM" \\
+"Cybersecurity — An integral part of STEM" \\
+"EPICS High: A Digital Literacy Project in India" \\
+"EPICS High: STEM's impact on community service"
 \end{position}
 
 \end{resume}
