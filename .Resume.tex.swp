@@ -1,12 +1,12 @@
 \documentstyle[hyperref, margin, line]{res_yy}
 
-\hypersetup{backref,pdfpagemode=Full,colorlinks=true,backref}
+\hypersetup{backref,pdfpagemode=Full,colorlinks=false,backref}
 
 \addtolength{\oddsidemargin}{-0.45in}
 \addtolength{\voffset}{-0.50in}
 \addtolength{\textwidth}{1.00in} \addtolength{\textheight}{1.50in}
 
-\renewcommand{\namefont}{\LARGE\emph}
+\renewcommand{\namefont}{\LARGE}
 
 \def\Cplusplus{{\rm C\raise.5ex\hbox{\small ++}}}
 \def\CSharp{{\rm C\raise.5ex\hbox{\small \#}}}
@@ -21,13 +21,13 @@
 \name{Rohan Mathur}
 
 \address{
-phone: (732) 552-6317 \ \ \ \ \ website: www.rmathur.com \ \ \ \ \ email: rohan@rmathur.com 
+website: www.rmathur.com \ \ \ \ \ phone: (732) 552-6317 \ \ \ \ \ email: rohan@rmathur.com 
 }
 
 \begin{resume}
 \section{\textsc{Education}}
 \textbf{University of Illinois at Urbana-Champaign} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2014 - 2018 (expected) \\
-Majoring in Computer Engineering, minor in Business Administration and Mathematics \\
+Majoring in Computer Engineering, minoring in Business Administration and Mathematics \\
 Relevant Classes: ECE 110, 120, 220 | CS 173, 225 | MATH 241 | PHYS 212
 
 \textbf{Bridgewater-Raritan High School} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2009 - 2014
@@ -78,13 +78,13 @@ Android application that records lectures, identifies keywords within the lectur
 \employer{\textbf{StockFeel}}
 \dates{Spring 2014}
 \begin{position}
-Web app that uses past and real-time social media and financial data to predict future stock movement, winner of Best Bloomberg Hack at PennApps 2014 Spring Hackathon.
+Web app that uses past and real-time social media and financial data to predict future stock movement. Winner of Best Bloomberg Hack at PennApps 2014 Spring Hackathon.
 \end{position}
 
 \employer{\textbf{QuickTron}}
 \dates{Fall 2013}
 \begin{position}
-Mobile ScanTron scanner, grader, and grade reporting application, winner of 2nd place at the hackRU 2013 Fall Hackathon.
+Mobile ScanTron scanner, grader, and grade reporting application. Winner of 2nd place at the hackRU 2013 Fall Hackathon.
 \end{position}
 
 \section{\textsc{Qualifications}}
@@ -99,13 +99,13 @@ Mobile ScanTron scanner, grader, and grade reporting application, winner of 2nd 
   \body\\
 \end{formatb}
 
-\employer{\textbf{HackIllinois Staff}}
+\employer{\textbf{HackIllinois}}
 \title{Systems Team}
 \begin{position}
-Built the HackIllinois coding challenge site that applicants could complete to gain familiarity with various programming languages. Assisted with the developemnt of the Android application.
+Built the HackIllinois coding challenge web app that applicants could do to gain familiarity with various programming languages. Assisted with the developemnt of the Android application.
 \end{position}
 
-\employer{\textbf{Reflections|Projections Staff}}
+\employer{\textbf{Reflections|Projections}}
 \title{Staff}
 \begin{position}
 Invited several guest speakers and assisted with the overall logistics of the event.
