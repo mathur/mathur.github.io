@@ -548,5 +548,5 @@ body {
 
 div.zoom {
       zoom: 75%; /* all browsers */
-     -moz-transform: scale(75%);  /* Firefox */
+     -moz-transform: scale(0.75);  /* Firefox */
 }
