@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.5)  2 OCT 2015 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.8.5)  2 OCT 2015 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,7 +319,7 @@ Here is how much of TeX's memory you used:
 mr10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr9.pfb>
-Output written on Resume.pdf (1 page, 70820 bytes).
+Output written on Resume.pdf (1 page, 70469 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
