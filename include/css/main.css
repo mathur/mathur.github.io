@@ -34,7 +34,7 @@ body{
 
 
 a{
-	color:#407EE7;
+	color:#B64674;
 	text-decoration: none;
 	cursor: pointer;
 
@@ -104,7 +104,7 @@ hr {
 }
 
 .color-text {
-    color: #407EE7;
+    color: #B64674;
 }
 
 .through{
@@ -373,7 +373,7 @@ h3.spec {
 
 #home-slider #nextslide:hover,
 #home-slider #prevslide:hover {
-	background-color:#407EE7;
+	background-color:#B64674;
 }
 
 #home-slider #nextslide i,
@@ -431,7 +431,7 @@ h3.spec {
 
 #home-slider ul#slide-list li.current-slide a,
 #home-slider ul#slide-list li.current-slide a:hover {
-	background-color:#407EE7;
+	background-color:#B64674;
 }
 
 #home-slider #nextsection {
@@ -449,7 +449,7 @@ h3.spec {
 }
 
 #home-slider #nextsection:hover {
-	background-color:#407EE7;
+	background-color:#B64674;
 }
 
 #home-slider #nextsection i {
@@ -553,7 +553,7 @@ nav#menu #menu-nav li a {
 
 nav#menu #menu-nav li.current a,
 nav#menu #menu-nav li a:hover {
-	color: #407EE7;
+	color: #B64674;
 }
 
 
@@ -692,7 +692,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a.selected {
-	color: #407EE7;
+	color: #B64674;
 }
 
 #thumbs {
@@ -752,7 +752,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #407EE7;
+	background: #B64674;
 
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -832,7 +832,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #407EE7;
+	background: #B64674;
 
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -979,7 +979,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit:hover {
-    background: #407EE7;
+    background: #B64674;
     color: #FFFFFF;
 }
 
@@ -1100,7 +1100,7 @@ nav#menu #menu-nav li a:hover {
 
 #social ul li:hover a,
 #social ul li.active a {
-	background-color: #407EE7;
+	background-color: #B64674;
 
 	-webkit-transform: rotateY(0deg);
 	   -moz-transform: rotateY(0deg);
@@ -1165,7 +1165,7 @@ footer .credits {
 }
 
 #back-to-top:hover {
-	background-color:#407EE7;
+	background-color:#B64674;
 }
 
 #back-to-top i {
@@ -1241,7 +1241,7 @@ footer .credits {
 	margin: -50px 0 0 -50px;
 	width: 100px;
 	height: 100px;
-	background: #407EE7;
+	background: #B64674;
 	-webkit-border-radius: 999px;
 	-moz-border-radius: 999px;
 	border-radius: 999px;
