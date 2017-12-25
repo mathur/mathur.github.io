@@ -6,6 +6,11 @@
     margin-top: 50px;
 }
 
+.profile {
+    float: right;
+    margin-left: 10px;
+}
+
 .section {
     margin-top: 25px;
 }
@@ -14,8 +19,6 @@
     margin-top: 12px;
 }
 
-
-.profile {
-    float: right;
-    margin-left: 10px;
+.last-section {
+    margin-bottom: 50px;
 }
