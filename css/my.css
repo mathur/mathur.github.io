@@ -9,3 +9,8 @@
 .section {
     margin-top: 25px;
 }
+
+.profile {
+    float: right;
+    margin-left: 10px;
+}
